@@ -53,7 +53,7 @@ menus:
 
   buttons:
     - name: "Contact"
-      url: "/#"
+      url: "https://forms.office.com/r/4jyfn2A0mP"
       weight: 5
       pre: "btn btn-primary text-light"
 

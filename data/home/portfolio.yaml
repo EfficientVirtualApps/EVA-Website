@@ -13,8 +13,6 @@ content:
     buttons:
       - label: "See live"
         url: "https://parigiproperty.com/"
-      - label: "Read more"
-        url: "#"
 
   - image: "images/HTR-Logo.png"
     pretitle: "Hold the Rope, LPC"
@@ -23,5 +21,3 @@ content:
     buttons:
       - label: "See live"
         url: "https://holdtheropept.com/"
-      - label: "Read more"
-        url: "#"
