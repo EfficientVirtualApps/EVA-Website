@@ -1,0 +1,25 @@
+.section.portfolio {
+  background-color: #460072;
+  color: #ffffff;
+
+  .portfolio-feature {
+    @media (min-width: 1200px) {
+      flex-direction: row;
+      
+      &:nth-child(odd) {
+        flex-direction: row-reverse;
+      }
+      
+      > div {
+        &:first-child {
+          background-color: #ffffff;
+          color: #000000;
+        }
+        &:last-child {
+          background-color: #460072;
+          color: #ffffff;
+        }
+      }
+    }
+  }
+}

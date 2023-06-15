@@ -1,0 +1,7 @@
+enabled: true
+id: "aboutmiss"
+
+content:
+  title: "MISSION & OBJECTIVES"
+  text: "Empowering businesses through technology is at the core of EVA's mission and founding. EVA provide comprehensive solutions & tools that enable clients to streamline operations, drive growth, and achieve lasting success."
+  image: "/images/Mission.png"

@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "ENHANCE YOUR EFFICIENCY"
+  text: "EVA takes the stress of IT off your hands so you can do what you do best."
+
+  buttonPrimary:
+    label: "Services"
+    url: "/services"
+
+  buttonSecondary:
+    label: "About EVA"
+    url: "/about"
+
