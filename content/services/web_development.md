@@ -8,7 +8,7 @@ hero_section:
 
   #####################Call to action #############################
 cta_section:
-  title: ENHANCE OR BUILD YOUR ONLINE PRESENCE
+  title: ENHANCE OR BUILD YOUR ONLINE PRESENCEs
   content: |
     EVA specializes in providing comprehensive web development solutions to help you establish a commanding online presence. Our services include website development, hosting, and effective SEO+, all aimed at showcasing what makes your business unique. In addition to website development, eva offer reliable hosting services to ensure your website is always accessible and performs optimally. EVA offers free search engine optimization (SEO+), improving your website's visibility on search engines and driving targeted traffic to your online platform.
 
