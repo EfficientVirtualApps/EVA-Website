@@ -8,7 +8,7 @@ hero_section:
 
   #####################Call to action #############################
 cta_section:
-  title: EFFICIENT BUSINESS DECISIONSSSS
+  title: EFFICIENT BUSINESS DECISIONS
   content: 
     EVA provides Business/Data Analytics for various industries and clients of all sizes. EVA's focus is on delivering tangible results with measurable outcomes that you can make business decisions with, and enabling efficient decision-making for businesses in diverse industries through the power of IT.
 
