@@ -18,7 +18,7 @@ cta_section:
 
   image: /images/System-Analysis.png
   button:
-    link: /contact-us
+    link: https://forms.office.com/pages/responsepage.aspx?id=wdGTPQp0lkOAq_FSQvHHSV2gPbztFbJAkYLit6JI0JhUREhLQkc3RlczUFNVWEpRT1AzMTdWNE9DUi4u
     label: Contact for Information
 
   ########################### Portfolio ######################
